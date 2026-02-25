@@ -99,7 +99,8 @@ Interactive dashboards were built in **Power BI**, including:
 
 ## 📊 Dashboard Preview
 These insights deliver a data-driven perspective on social media usage behaviors and their effects on mental health, sleep, and relationship dynamics.
-<img width="1305" height="738" alt="image" src="https://github.com/user-attachments/assets/bee48fc6-6bf6-4baa-9e4e-141d00def1da" />
+<img width="1317" height="744" alt="image" src="https://github.com/user-attachments/assets/1b728c75-9603-4e77-afff-e437d2976ead" />
+
 
 ---
 
